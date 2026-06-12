@@ -1,3 +1,6 @@
+### 🌐 Выберите язык / Select Language
+[🇷🇺 Русский](README_RU.md) | [🇬🇧 English](README.md)
+
 # SimpleCode
 
 An Arduino library that makes code shorter and cleaner by replacing long blocks of code with simple functions.
