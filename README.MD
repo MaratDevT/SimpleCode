@@ -1,5 +1,5 @@
 ### 🌐 Выберите язык / Select Language
-[🇷🇺 Русский](README_RU.MD) | [🇬🇧 English](README.MD)
+[Русский](README_RU.MD) | [English](README.MD)
 
 # SimpleCode
 
