@@ -63,6 +63,7 @@ Used for controlling LEDs without blocking the main loop execution.
 ```cpp
 #include "SimpleCode.h"
 
+// NOTE: This example is specifically designed for Toggle / Latching switches (ON/OFF).
 // Create a Switch object on pin 2 (perfect for toggle switches or buttons)
 Switch myButton(2);
 
