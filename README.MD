@@ -82,10 +82,10 @@ Used for controlling LEDs without blocking the main loop execution.
 2. Go to **Sketch** -> **Include Library** -> **Add .ZIP Library...**
 3. Select the downloaded ZIP file.
 
+---
+
 ## Example: Toggle Switch Control
 This example demonstrates how to use the library with a physical latching toggle switch to control an LED and handle state checking using non-blocking timers.
-
----
 
 ```cpp
 #include "SimpleCode.h"
