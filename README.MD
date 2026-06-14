@@ -69,9 +69,23 @@ Used for controlling LEDs without blocking the main loop execution.
 * **`stopBlink()`** — Stops the asynchronous blinking process and forces the LED OFF.
 
 ---
+## Installation
+
+### Method 1: Via Arduino Library Manager (Recommended)
+1. Open **Arduino IDE**.
+2. Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
+3. Search for **SimpleCode** in the search bar.
+4. Click **Install**.
+
+### Method 2: Manual .ZIP Installation
+1. Download the library folder as a **ZIP archive**.
+2. Go to **Sketch** -> **Include Library** -> **Add .ZIP Library...**
+3. Select the downloaded ZIP file.
 
 ## Example: Toggle Switch Control
 This example demonstrates how to use the library with a physical latching toggle switch to control an LED and handle state checking using non-blocking timers.
+
+---
 
 ```cpp
 #include "SimpleCode.h"
